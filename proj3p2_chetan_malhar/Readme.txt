@@ -50,7 +50,7 @@ Enter x and y coordinates of the goal after all the rospy logs are finished
 
 Videos:
 
-Part 01: 
+Part 01: https://drive.google.com/drive/u/0/folders/17FiWeH-oVz65rQemPfE6BarKv6YdlZhE
 
   - Start Position: (50, 100, 0)
   - Goal Position: (550, 100)
@@ -58,7 +58,7 @@ Part 01:
   - RPM1: 5
   - RPM2: 6
 
-Part 02: 
+Part 02: https://drive.google.com/drive/u/0/folders/17FiWeH-oVz65rQemPfE6BarKv6YdlZhE
 
   - Start Position: (50, 100, 0) 
   - Goal Position: (550, 100)
