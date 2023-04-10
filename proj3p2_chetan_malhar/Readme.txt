@@ -64,5 +64,5 @@ Part 02:
   - Goal Position: (550, 100)
   - Clearance: 15
 
-Github Repository:
+Github Repository: https://github.com/chetankumarsambu/ENPM661-Astar_Turtlebot
 
